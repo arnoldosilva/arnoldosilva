@@ -2,11 +2,7 @@
 
 (Mobile && Game).Developer
 
-## Possui academia e tem interesse?
-
-Deseja levar este App para sua academia?
-
-<b>Arnoldo Silva</b> - [www.arnoldosilva.com.br](https://www.arnoldosilva.com.br)
+### Desenvolvedor em React Native, Nodejs, Unity
 
 ---
 
@@ -29,11 +25,8 @@ Deseja levar este App para sua academia?
 </a>
 </p>****
 
-
-
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **arnoldosilva/arnoldosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
