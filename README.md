@@ -6,8 +6,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnoldosilva&theme=dracula)](https://github.com/arnoldosilva)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldosilva&theme=dracula)](https://github.com/arnoldosilva)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnoldosilva&theme=synthwave)](https://github.com/arnoldosilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldosilva&theme=synthwave)](https://github.com/arnoldosilva)
 
 
 
