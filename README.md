@@ -6,6 +6,10 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnoldosilva)](https://github.com/arnoldosilva)
+
+
+---
 ## Contato
 <p align="center">
 <a href="https://www.linkedin.com/in/arnoldosilva/">
