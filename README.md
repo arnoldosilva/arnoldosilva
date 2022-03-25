@@ -1,8 +1,8 @@
 # Arnoldo Silva
 
-(Mobile && Game).Developer
+Mobile Specialist
 
-### Desenvolvedor em React Native, Nodejs, Unity
+### Desenvolvedor em React Native, Swift, Flutter, Unity
 
 ---
 
