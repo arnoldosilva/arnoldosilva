@@ -2,7 +2,7 @@
 
 Mobile Specialist
 
-### Desenvolvedor em React Native, Swift, Flutter, Unity
+### Desenvolvedor em React, React Native, NodeJs e Swift
 
 ---
 
